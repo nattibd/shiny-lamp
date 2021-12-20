@@ -5,3 +5,6 @@ CODE
 add-more-instructions
 
 3.
+
+
+lamp 
