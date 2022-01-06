@@ -8,3 +8,6 @@ add-more-instructions
 
 
 lamp 
+
+
+wood
