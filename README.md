@@ -1,5 +1,4 @@
 # shiny-lamp
-new one
 
 
 
