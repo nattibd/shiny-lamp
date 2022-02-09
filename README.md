@@ -1,6 +1,4 @@
 # shiny-lamp
 
-#1
-
 
 
